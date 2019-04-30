@@ -1,0 +1,52 @@
+# Compiled source #
+###################
+*.com
+# *.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.classpath
+*.project
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+# *.jar
+*.rar
+*.tar
+*.zip
+*.log
+*.logs
+tags
+logs/
+.settings/
+__pycache__/
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite3
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+*.swp
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+.idea/
+remote_log
+remote_ssh.log
+/.metadata/
