@@ -28,7 +28,7 @@ def gradingStudents(grades):
             new_grades.append(next_multiple(i))
         elif i >= 38 and ((next_multiple(i) - i) >= 3):
             new_grades.append(i)
-    return  new_grades
+    return new_grades
 
 
 if __name__ == '__main__':
